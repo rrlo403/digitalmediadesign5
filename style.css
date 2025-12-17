@@ -106,11 +106,11 @@
 	.ritual-5{position: absolute;top: calc(70% - 25px);left: calc(35% - 25px);width: 1250px;height: auto;opacity: 1;pointer-events: none;z-index: 1;transform: rotate(15deg);}
 
 
-	.footer-light-1{position: absolute;top: calc(35% - 0px);left: calc(50%);transform: translateX(-50%);width: 300px;height: auto;opacity: 1;pointer-events: none;z-index: 0;}
+	.footer-light-1{position: absolute;top: calc(48% - 0px);left: calc(50%);transform: translateX(-50%);width: 300px;height: auto;opacity: 1;pointer-events: none;z-index: 0;}
 
-	.footer-light-2{position: absolute;top: calc(55% + 100px);left: calc(50%);transform: translateX(-50%);width: 500px;height: auto;opacity: 1;pointer-events: none;z-index: 0;}
+	.footer-light-2{position: absolute;top: calc(65% + 175px);left: calc(50%);transform: translateX(-50%);width: 500px;height: auto;opacity: 1;pointer-events: none;z-index: 0;}
 
-	.footer-light-3{position: absolute;top: calc(65% - 25px);left: calc(50%);transform: translateX(-50%);width: 700px;height: auto;opacity: 1;pointer-events: none;z-index: 1;}
+	.footer-light-3{position: absolute;top: calc(75% - 100px);left: calc(50%);transform: translateX(-50%);width: 700px;height: auto;opacity: 1;pointer-events: none;z-index: 1;}
 
 	.footer-light{animation: fadeLoop3 3s ease-in-out infinite;}
 
@@ -209,7 +209,7 @@ transform: translateY(0) translateX(-50%);}
 		.section-gradient3{background: linear-gradient(white,black);}
 		.section-gradient4{background: linear-gradient(white 1%,black 90%,black 100%);}
 		.bottom-spacing{padding-bottom: 400px; padding-left: 400px}
-		.header-end{padding-bottom: 1500px; padding-left: 400px}
+		.header-end{padding-bottom: 2800px; padding-left: 400px}
 
 		.one-spacing{padding-bottom: 40px; padding-left: 400px}
 
@@ -278,7 +278,7 @@ transform: translateY(0) translateX(-50%);}
 
 
 		
-		.footer1{margin: 0;color: white;text-align: center;padding-top: 3000px;padding-bottom: 500px; z-index: 2}
+		.footer1{margin: 0;color: white;text-align: center;padding-top: 4500px;padding-bottom: 500px; z-index: 2}
 		.footer2{margin: 0;color: white;text-align: center;padding-bottom: 100px;z-index: 2}
 		.footer-sub{margin: 50px;font-weight: 500; font-size: 1.5rem;color: white;}
 		.footer-sub2{margin-right: 25px; font-weight: 500; font-size: 1.5rem;color: white; text-align: right;}
